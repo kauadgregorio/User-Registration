@@ -2,7 +2,7 @@ from app import app
 
 @app.route('/')
 def homepage():
-    return "Serpa cagão!"
+    return "Esse é meu site"
 
 if __name__ == '__main__':
     app.run(debug=True)
