@@ -8,3 +8,5 @@ It's a test site but can be an excample for anoter aplications at future.
 - CSS
 - JavaScript
 - Python
+
+# Work in progress
